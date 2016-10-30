@@ -1,6 +1,11 @@
 # Date2MysqlFormat
 
 ## Usage
+`npm install date2mysqlformat --save`
+
+```
+const Date2MysqlFormat = require('date2mysqlformat');
+```
 
 ### Date2MysqlFormat.dateOnly(date)
 ```
