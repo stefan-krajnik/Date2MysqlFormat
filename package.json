@@ -1,0 +1,23 @@
+{
+  "name": "date2mysqlformat",
+  "version": "1.0.0",
+  "description": "Converts JavaScript Date instance to string (mysql format)",
+  "main": "src/date.to.mysql.format.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefan-krajnik/Date2MysqlFormat.git"
+  },
+  "keywords": [
+    "Date",
+    "nodejs"
+  ],
+  "author": "Stefan Krajnik <stefan@stefankrajnik.com> (http://stefankrajnik.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefan-krajnik/Date2MysqlFormat/issues"
+  },
+  "homepage": "https://github.com/stefan-krajnik/Date2MysqlFormat#readme"
+}
